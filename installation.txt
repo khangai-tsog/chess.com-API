@@ -1,0 +1,10 @@
+You can download chess.com module using 
+
+#python
+pip install chess.com
+OR
+pip3 install chess.com
+OR
+python -m pip install chess.com
+OR
+python3 -m pip install chess.com
