@@ -26,7 +26,7 @@ def get_player_rating():
   selected_player = input()
 
   try:
-    data = get_player_stats(username).json
+    data = get_player_stats(selected_player).json
   except:
     print('Player not found.')
     return
